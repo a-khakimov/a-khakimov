@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [prosoftsystems.ru](https://prosoftsystems.ru/)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Stats](https://github-readme-stats.vercel.app/api?username=a-khakimov&show_icons=true&theme=onedark)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=a-khakimov&show_icons=true&theme=merko)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-khakimov&langs_count=15&show_icons=true&theme=onedark)
